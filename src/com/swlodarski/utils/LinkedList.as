@@ -2,6 +2,7 @@ package com.swlodarski.utils
 {
 	/**
    * @author sw
+   * Sort functionality by Simon Tatham (http://www.chiark.greenend.org.uk/~sgtatham/algorithms/listsort.html)
    */
   public class LinkedList extends Collection
   {    
